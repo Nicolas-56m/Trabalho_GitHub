@@ -29,10 +29,12 @@ O comando git init é utilizado para iniciar um repositório Git em uma pasta do
 
 # Passo 2
 Abrir o terminal dentro da pasta.
+
 <img width="129" height="31" alt="image" src="https://github.com/user-attachments/assets/4b00d16b-a0aa-49c0-863b-6451829e8b93" />
 
 # Passo 3
 Executar o comando:
+
 <img width="69" height="25" alt="image" src="https://github.com/user-attachments/assets/3d64c100-a5b8-4b5f-8b18-a32018946281" />
 
 git init
