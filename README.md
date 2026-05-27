@@ -21,13 +21,13 @@ Atualmente, o Git é utilizado mundialmente em projetos escolares, profissionais
 
 O comando git init é utilizado para iniciar um repositório Git em uma pasta do computador.
 
-# Como fazer
-Passo 1
+# Como fazer:
+# Passo 1
+* Criar uma pasta para o projeto.
+mkdir ProjetoSenai
+Olá, meu nome é <font color="#007BFF">Seu Nome</font>!
 
-Criar uma pasta para o projeto.
-
-Passo 2
-
+* Passo 2
 Abrir o terminal dentro da pasta.
 
 Passo 3
