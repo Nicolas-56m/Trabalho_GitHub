@@ -42,7 +42,8 @@ Executar o comando:
 * É criada a pasta oculta .git;
 * O projeto passa a possuir controle de versões.
 # Exemplo
-C:\Projetos\TrabalhoGit> git init
+<img width="241" height="21" alt="image" src="https://github.com/user-attachments/assets/99430acd-89db-46d8-a3e4-156bf80d0837" />
+
 ## 6.2.2 git add
 
 O comando git add adiciona arquivos para a área de preparação do Git.
