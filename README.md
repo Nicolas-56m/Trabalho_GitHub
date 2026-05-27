@@ -1,6 +1,5 @@
-<img width="127" height="30" alt="Captura de tela 2026-05-27 152416" src="https://github.com/user-attachments/assets/d6682f85-9167-4bea-ace1-308cd448ae60" /># Trabalho_GitHub
-📂 Projetos, testes e evolução constante na programação.
 
+📂 Projetos, testes e evolução constante na programação.
 
 ## Git – Sistema de Controle de Versões Distribuído
 ## 6.1 EVOLUÇÃO
@@ -49,7 +48,7 @@ Executar o comando:
 O comando git add adiciona arquivos para a área de preparação do Git.
 
 ## Como fazer?
-* Add um único arquivo
+*Add um único arquivo
 <img width="127" height="30" alt="Captura de tela 2026-05-27 152429" src="https://github.com/user-attachments/assets/9b63b84d-c377-4b4a-83cd-50883fa5cce4" />
 
 *Add todos os arquivo 
