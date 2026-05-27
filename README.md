@@ -1,12 +1,12 @@
 # Trabalho_GitHub
 📂 Projetos, testes e evolução constante na programação.
 
-$${\color{red} mkde  projetoSenai}$$
+
 ## Git – Sistema de Controle de Versões Distribuído
 ## 6.1 Evolução
 
 O  Git é um sistema de controle de versões distribuído criado para armazenar, organizar e controlar alterações feitas em projetos. Ele foi desenvolvido para facilitar o trabalho em equipe, permitindo que várias pessoas trabalhem no mesmo projeto sem perder informações importantes.
-
+$${\color{red}mkdir \space projeto}$$
 Com o Git, é possível:
 * Salvar versões do projeto;
 * Recuperar versões antigas;
