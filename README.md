@@ -41,7 +41,7 @@ O Git começa a monitorar a pasta;
 O projeto passa a possuir controle de versões.
 Exemplo
 C:\Projetos\TrabalhoGit> git init
-6.2.2 git add
+## 6.2.2 git add
 
 O comando git add adiciona arquivos para a área de preparação do Git.
 
@@ -125,7 +125,7 @@ Compartilhamento;
 Trabalho em equipe;
 Segurança;
 Histórico de alterações.
-7.1.1 GitHub
+## 7.1.1 GitHub
 
 O GitHub é uma plataforma online utilizada para armazenar repositórios Git.
 
