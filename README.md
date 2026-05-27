@@ -88,7 +88,7 @@ git config --global user.name "João"
 O comando git commit salva oficialmente as alterações do projeto.
 
 # Como fazer
-Executar o comando:
+# Executar o comando:
 git commit -m "Primeiro commit"
 # O que acontece?
 * O Git cria um histórico da alteração;
@@ -101,7 +101,7 @@ git commit -m "Adicionado arquivo principal"
 O comando git log mostra o histórico de commits realizados.
 
 # Como fazer
-#Executar:
+# Executar:
 git log
 # O que acontece?
 
@@ -129,20 +129,20 @@ Os serviços de versionamento em nuvem permitem armazenar projetos online utiliz
 
 O GitHub é uma plataforma online utilizada para armazenar repositórios Git.
 
-# Como utilizar
-Passo 1
+# Como utilizar:
+# Passo 1
 
  Criar uma conta no GitHub.
 
-Passo 2
+# Passo 2
 
 Criar um repositório.
 
-Passo 3
+# Passo 3
 
 Adicionar arquivos do projeto.
 
-Passo 4
+# Passo 4
 
 Gerenciar versões do projeto.
 
@@ -155,20 +155,20 @@ Gerenciar versões do projeto.
 
 O Bitbucket é um serviço de hospedagem de repositórios Git criado pela Atlassian.
 
-# Como utilizar
-Passo 1
+# Como utilizar:
+# Passo 1
 
 Criar uma conta.
 
-Passo 2
+# Passo 2
 
 Criar um repositório.
 
-Passo 3
+# Passo 3
 
 Adicionar membros da equipe.
 
-Passo 4
+# Passo 4
 
 Controlar versões do projeto.
 
@@ -184,19 +184,19 @@ Controlar versões do projeto.
 O Azure DevOps Repos é o serviço de repositórios Git da Microsoft.
 
 # Como utilizar
-Passo 1
+# Passo 1
 
 Criar uma conta Microsoft.
 
-Passo 2
+# Passo 2
 
 Acessar o Azure DevOps.
 
-Passo 3
+# Passo 3
 
 Criar um projeto.
 
-Passo 4
+# Passo 4
 
 Criar o repositório Git.
 
