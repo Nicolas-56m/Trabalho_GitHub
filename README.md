@@ -50,6 +50,7 @@ O comando git add adiciona arquivos para a área de preparação do Git.
 
 ## Como fazer?
  Adicionar um único arquivo                   
+ <img width="127" height="30" alt="image" src="https://github.com/user-attachments/assets/d7905ae3-14d0-491f-8659-7e5ec04154e5" />
  Adicionar todos os arquivos
 
 ## O que acontece?
