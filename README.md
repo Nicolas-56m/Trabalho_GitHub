@@ -23,7 +23,7 @@ O comando git init é utilizado para iniciar um repositório Git em uma pasta do
 
 ## Como fazer:
 ## Passo 1
-* Criar uma pasta para o projeto.
+ Criar uma pasta para o projeto.
 <img width="139" height="40" alt="image" src="https://github.com/user-attachments/assets/054bd3f4-5962-4dd2-9750-3442fac4c919" />
 
 
@@ -49,10 +49,14 @@ Executar o comando:
 O comando git add adiciona arquivos para a área de preparação do Git.
 
 ## Como fazer?
-* Adicionar um único arquivo
+ Adicionar um único arquivo
+
 git add index.html
-* Adicionar todos os arquivos
+
+ Adicionar todos os arquivos
+
 git add .
+
 ## O que acontece?
 * Os arquivos ficam preparados para o commit;
 * O Git entende quais arquivos serão salvos.
