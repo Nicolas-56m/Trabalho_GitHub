@@ -1,7 +1,7 @@
 # Trabalho_GitHub
 📂 Projetos, testes e evolução constante na programação.
 
-$${\color{red}mkdir \space projeto}$$
+$${\color{red} mkdir  projetoSenai}$$
 ## Git – Sistema de Controle de Versões Distribuído
 ## 6.1 Evolução
 
