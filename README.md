@@ -21,7 +21,7 @@ Atualmente, o Git é utilizado mundialmente em projetos escolares, profissionais
 
 O comando git init é utilizado para iniciar um repositório Git em uma pasta do computador.
 
-Como fazer
+# Como fazer
 Passo 1
 
 Criar uma pasta para o projeto.
@@ -35,104 +35,104 @@ Passo 3
 Executar o comando:
 
 git init
-O que acontece?
-O Git começa a monitorar a pasta;
-É criada a pasta oculta .git;
-O projeto passa a possuir controle de versões.
-Exemplo
+# O que acontece?
+* O Git começa a monitorar a pasta;
+* É criada a pasta oculta .git;
+* O projeto passa a possuir controle de versões.
+# Exemplo
 C:\Projetos\TrabalhoGit> git init
 ## 6.2.2 git add
 
 O comando git add adiciona arquivos para a área de preparação do Git.
 
-Como fazer
-Adicionar um único arquivo
+# Como fazer?
+* Adicionar um único arquivo
 git add index.html
-Adicionar todos os arquivos
+* Adicionar todos os arquivos
 git add .
-O que acontece?
-Os arquivos ficam preparados para o commit;
-O Git entende quais arquivos serão salvos.
-Exemplo
+# O que acontece?
+* Os arquivos ficam preparados para o commit;
+* O Git entende quais arquivos serão salvos.
+# Exemplo
 git add atividade.txt
 ## 6.2.3 git status
 
 O comando git status mostra o estado atual do projeto.
 
-Como fazer
+# Como fazer?
 Executar o comando:
 git status
-O que ele mostra?
-Arquivos modificados;
-Arquivos novos;
-Arquivos adicionados;
-Arquivos que ainda não foram preparados.
-Exemplo
+# O que ele mostra?
+* Arquivos modificados;
+* Arquivos novos;
+* Arquivos adicionados;
+* Arquivos que ainda não foram preparados.
+# Exemplo
 git status
 ## 6.2.4 git config
 
 O comando git config é utilizado para configurar informações do Git.
 
-Como fazer
-Configurar nome do usuário
+# Como fazer
+* Configurar nome do usuário
 git config --global user.name "Nicolas"
-Configurar e-mail
+* Configurar e-mail
 git config --global user.email "email@gmail.com"
-O que acontece?
-O Git salva as informações do desenvolvedor;
-O nome e e-mail aparecem nos commits.
-Exemplo
+# O que acontece?
+* O Git salva as informações do desenvolvedor;
+* O nome e e-mail aparecem nos commits.
+# Exemplo
 git config --global user.name "João"
 ## 6.2.5 git commit
 
 O comando git commit salva oficialmente as alterações do projeto.
 
-Como fazer
+# Como fazer
 Executar o comando:
 git commit -m "Primeiro commit"
-O que acontece?
-O Git cria um histórico da alteração;
-O projeto ganha uma nova versão;
-As alterações ficam registradas.
-Exemplo
+# O que acontece?
+* O Git cria um histórico da alteração;
+* O projeto ganha uma nova versão;
+* As alterações ficam registradas.
+# Exemplo
 git commit -m "Adicionado arquivo principal"
 ## 6.2.6 git log
 
 O comando git log mostra o histórico de commits realizados.
 
-## Como fazer
-Executar:
+# Como fazer
+#Executar:
 git log
-## O que acontece?
+# O que acontece?
 
-## O Git mostra:
+# O Git mostra:
 
-Autor do commit;
-Data;
-Horário;
-Código do commit;
-Mensagem da alteração.
-Exemplo
+* Autor do commit;
+* Data;
+* Horário;
+* Código do commit;
+* Mensagem da alteração.
+# Exemplo
 git log
 ##  Versionamento em Nuvem
 ## 7.1 Serviços
 
 Os serviços de versionamento em nuvem permitem armazenar projetos online utilizando Git.
 
-Vantagens
-Backup dos projetos;
-Compartilhamento;
-Trabalho em equipe;
-Segurança;
-Histórico de alterações.
+## Vantagens
+* Backup dos projetos;
+* Compartilhamento;
+* Trabalho em equipe;
+* Segurança;
+* Histórico de alterações.
 ## 7.1.1 GitHub
 
 O GitHub é uma plataforma online utilizada para armazenar repositórios Git.
 
-Como utilizar
+# Como utilizar
 Passo 1
 
-Criar uma conta no GitHub.
+ Criar uma conta no GitHub.
 
 Passo 2
 
@@ -146,16 +146,16 @@ Passo 4
 
 Gerenciar versões do projeto.
 
-Características
-Repositórios públicos e privados;
-Compartilhamento de projetos;
-Muito utilizado por estudantes e empresas.
+# Características
+* Repositórios públicos e privados;
+* Compartilhamento de projetos;
+* Muito utilizado por estudantes e empresas.
 
 ## 7.1.2 BitBucket
 
 O Bitbucket é um serviço de hospedagem de repositórios Git criado pela Atlassian.
 
-Como utilizar
+# Como utilizar
 Passo 1
 
 Criar uma conta.
@@ -172,17 +172,18 @@ Passo 4
 
 Controlar versões do projeto.
 
-Características
-Integração com Jira;
-Ferramentas empresariais;
-Controle de permissões;
-Repositórios privados.
+# Características
+* Integração com Jira;
+* Ferramentas empresariais;
+* Controle de permissões;
+* Repositórios privados.
+
 
 ## 7.1.3 Azure Repository
 
 O Azure DevOps Repos é o serviço de repositórios Git da Microsoft.
 
-Como utilizar
+# Como utilizar
 Passo 1
 
 Criar uma conta Microsoft.
@@ -199,8 +200,8 @@ Passo 4
 
 Criar o repositório Git.
 
-Características
-Integração com ferramentas Microsoft;
-Controle empresarial;
-Segurança avançada;
-Automação de projetos.
+# Características
+* Integração com ferramentas Microsoft;
+* Controle empresarial;
+* Segurança avançada;
+* Automação de projetos.
