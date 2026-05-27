@@ -3,7 +3,7 @@
 
 
 ## Git – Sistema de Controle de Versões Distribuído
-## 6.1 Evolução
+## 6.1 EVOLUÇÃO
 
 O  Git é um sistema de controle de versões distribuído criado para armazenar, organizar e controlar alterações feitas em projetos. Ele foi desenvolvido para facilitar o trabalho em equipe, permitindo que várias pessoas trabalhem no mesmo projeto sem perder informações importantes.
 
@@ -17,12 +17,12 @@ Com o Git, é possível:
 Atualmente, o Git é utilizado mundialmente em projetos escolares, profissionais e empresariais.
 
 ## 6.2 Comandos Iniciais
-## 6.2.1 git init
+# 6.2.1 GIT INIT
 
 O comando git init é utilizado para iniciar um repositório Git em uma pasta do computador.
 
-# Como fazer:
-# Passo 1
+## Como fazer:
+## Passo 1
 * Criar uma pasta para o projeto.
 <img width="139" height="40" alt="image" src="https://github.com/user-attachments/assets/054bd3f4-5962-4dd2-9750-3442fac4c919" />
 
@@ -44,7 +44,7 @@ Executar o comando:
 # Exemplo
 <img width="241" height="21" alt="image" src="https://github.com/user-attachments/assets/99430acd-89db-46d8-a3e4-156bf80d0837" />
 
-## 6.2.2 git add
+## 6.2.2 GIT ADD
 
 O comando git add adiciona arquivos para a área de preparação do Git.
 
@@ -58,7 +58,7 @@ git add .
 * O Git entende quais arquivos serão salvos.
 # Exemplo
 git add atividade.txt
-## 6.2.3 git status
+## 6.2.3 GIT STATUS
 
 O comando git status mostra o estado atual do projeto.
 
@@ -72,7 +72,7 @@ git status
 * Arquivos que ainda não foram preparados.
 # Exemplo
 git status
-## 6.2.4 git config
+## 6.2.4 GIT CONFIG
 
 O comando git config é utilizado para configurar informações do Git.
 
@@ -99,7 +99,7 @@ git commit -m "Primeiro commit"
 * As alterações ficam registradas.
 # Exemplo
 git commit -m "Adicionado arquivo principal"
-## 6.2.6 git log
+## 6.2.6 GIT LOG
 
 O comando git log mostra o histórico de commits realizados.
 
@@ -118,17 +118,17 @@ git log
 # Exemplo
 git log
 ##  Versionamento em Nuvem
-## 7.1 Serviços
+## 7.1 SERVIÇOS
 
 Os serviços de versionamento em nuvem permitem armazenar projetos online utilizando Git.
 
-## Vantagens
+## VANTAGENS
 * Backup dos projetos;
 * Compartilhamento;
 * Trabalho em equipe;
 * Segurança;
 * Histórico de alterações.
-## 7.1.1 GitHub
+## 7.1.1 GITHUB
 
 O GitHub é uma plataforma online utilizada para armazenar repositórios Git.
 
@@ -154,7 +154,7 @@ Gerenciar versões do projeto.
 * Compartilhamento de projetos;
 * Muito utilizado por estudantes e empresas.
 
-## 7.1.2 BitBucket
+## 7.1.2 BITBUCKET
 
 O Bitbucket é um serviço de hospedagem de repositórios Git criado pela Atlassian.
 
@@ -182,7 +182,7 @@ Controlar versões do projeto.
 * Repositórios privados.
 
 
-## 7.1.3 Azure Repository
+## 7.1.3 AZURE REPOSITORY
 
 O Azure DevOps Repos é o serviço de repositórios Git da Microsoft.
 
