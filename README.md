@@ -37,7 +37,6 @@ Executar o comando:
 
 <img width="69" height="25" alt="image" src="https://github.com/user-attachments/assets/3d64c100-a5b8-4b5f-8b18-a32018946281" />
 
-git init
 # O que acontece?
 * O Git começa a monitorar a pasta;
 * É criada a pasta oculta .git;
