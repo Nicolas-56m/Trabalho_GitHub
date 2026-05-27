@@ -1,7 +1,7 @@
 # Trabalho_GitHub
 📂 Projetos, testes e evolução constante na programação.
 
-
+$${\color{red}mkdir \space projeto}$$
 ## Git – Sistema de Controle de Versões Distribuído
 ## 6.1 Evolução
 
@@ -25,12 +25,11 @@ O comando git init é utilizado para iniciar um repositório Git em uma pasta do
 # Passo 1
 * Criar uma pasta para o projeto.
 mkdir ProjetoSenai
-Olá, meu nome é <font color="#007BFF">Seu Nome</font>!
 
-* Passo 2
+# Passo 2
 Abrir o terminal dentro da pasta.
 
-Passo 3
+# Passo 3
 
 Executar o comando:
 
