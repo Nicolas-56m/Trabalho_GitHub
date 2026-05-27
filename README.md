@@ -83,7 +83,7 @@ O Git salva as informações do desenvolvedor;
 O nome e e-mail aparecem nos commits.
 Exemplo
 git config --global user.name "João"
-6.2.5 git commit
+## 6.2.5 git commit
 
 O comando git commit salva oficialmente as alterações do projeto.
 
@@ -96,7 +96,7 @@ O projeto ganha uma nova versão;
 As alterações ficam registradas.
 Exemplo
 git commit -m "Adicionado arquivo principal"
-6.2.6 git log
+## 6.2.6 git log
 
 O comando git log mostra o histórico de commits realizados.
 
