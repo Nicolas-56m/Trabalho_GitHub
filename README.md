@@ -24,8 +24,8 @@ O comando git init é utilizado para iniciar um repositório Git em uma pasta do
 # Como fazer:
 # Passo 1
 * Criar uma pasta para o projeto.
+<img width="139" height="40" alt="image" src="https://github.com/user-attachments/assets/054bd3f4-5962-4dd2-9750-3442fac4c919" />
 
-$$\color{red}\text{mkdir}$$  ProjetoSenai
 
 
 # Passo 2
