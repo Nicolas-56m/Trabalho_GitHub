@@ -55,7 +55,7 @@ Os arquivos ficam preparados para o commit;
 O Git entende quais arquivos serão salvos.
 Exemplo
 git add atividade.txt
-6.2.3 git status
+## 6.2.3 git status
 
 O comando git status mostra o estado atual do projeto.
 
@@ -69,7 +69,7 @@ Arquivos adicionados;
 Arquivos que ainda não foram preparados.
 Exemplo
 git status
-6.2.4 git config
+## 6.2.4 git config
 
 O comando git config é utilizado para configurar informações do Git.
 
