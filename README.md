@@ -1,4 +1,4 @@
-# Trabalho_GitHub
+<img width="127" height="30" alt="Captura de tela 2026-05-27 152416" src="https://github.com/user-attachments/assets/d6682f85-9167-4bea-ace1-308cd448ae60" /># Trabalho_GitHub
 📂 Projetos, testes e evolução constante na programação.
 
 
@@ -49,11 +49,13 @@ Executar o comando:
 O comando git add adiciona arquivos para a área de preparação do Git.
 
 ## Como fazer?
-* Adicionar um único arquivo 
+Adicionar um único arquivo
 
-   <img width="127" height="30" alt="image" src="https://github.com/user-attachments/assets/d7905ae3-14d0-491f-8659-7e5ec04154e5" />  
-              * Adicionar todos os arquivo 
-               <img width="70" height="20" alt="image" src="https://github.com/user-attachments/assets/f6d28eda-3464-46c7-923a-54ec5fe6de12" />
+<img width="127" height="30" alt="Captura de tela 2026-05-27 152429" src="https://github.com/user-attachments/assets/9b63b84d-c377-4b4a-83cd-50883fa5cce4" />
+
+Adicionar todos os arquivo 
+              
+<img width="127" height="30" alt="Captura de tela 2026-05-27 152416" src="https://github.com/user-attachments/assets/99a99ffb-cc65-488b-b8db-68be373b218a" />
 
 ## O que acontece?
 * Os arquivos ficam preparados para o commit;
