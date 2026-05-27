@@ -5,7 +5,7 @@
 ## Git – Sistema de Controle de Versões Distribuído
 ## 6.1 Evolução
 
-O  ##Git é um sistema de controle de versões distribuído criado para armazenar, organizar e controlar alterações feitas em projetos. Ele foi desenvolvido para facilitar o trabalho em equipe, permitindo que várias pessoas trabalhem no mesmo projeto sem perder informações importantes.
+O  Git é um sistema de controle de versões distribuído criado para armazenar, organizar e controlar alterações feitas em projetos. Ele foi desenvolvido para facilitar o trabalho em equipe, permitindo que várias pessoas trabalhem no mesmo projeto sem perder informações importantes.
 
 Com o Git, é possível:
 * Salvar versões do projeto;
@@ -100,12 +100,12 @@ git commit -m "Adicionado arquivo principal"
 
 O comando git log mostra o histórico de commits realizados.
 
-Como fazer
+## Como fazer
 Executar:
 git log
-O que acontece?
+## O que acontece?
 
-O Git mostra:
+## O Git mostra:
 
 Autor do commit;
 Data;
@@ -114,8 +114,8 @@ Código do commit;
 Mensagem da alteração.
 Exemplo
 git log
-7 Versionamento em Nuvem
-7.1 Serviços
+##  Versionamento em Nuvem
+## 7.1 Serviços
 
 Os serviços de versionamento em nuvem permitem armazenar projetos online utilizando Git.
 
@@ -150,7 +150,8 @@ Características
 Repositórios públicos e privados;
 Compartilhamento de projetos;
 Muito utilizado por estudantes e empresas.
-7.1.2 BitBucket
+
+## 7.1.2 BitBucket
 
 O Bitbucket é um serviço de hospedagem de repositórios Git criado pela Atlassian.
 
@@ -176,7 +177,8 @@ Integração com Jira;
 Ferramentas empresariais;
 Controle de permissões;
 Repositórios privados.
-7.1.3 Azure Repository
+
+## 7.1.3 Azure Repository
 
 O Azure DevOps Repos é o serviço de repositórios Git da Microsoft.
 
